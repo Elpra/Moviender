@@ -1,3 +1,3 @@
 # Moviender
 
-Web app game to categorize movie preferences between users.
+Web app game to categorize movie preferences between users
