@@ -1,2 +1,3 @@
-# Moviender-Client
-Web Client for Moviender App
+# Moviender
+
+Web app game to categorize movie preferences between users.
